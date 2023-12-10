@@ -1,31 +1,31 @@
 # command
-department-MarineCommand = Command
-department-MarineCommand-description = The Command Department is the brains of the USS Almayer, leading and coordinating the squads and the other support staff of the ship to fight and win against the Aliens.
+department-MarineCommand = Командование
+department-MarineCommand-description = Командный состав является мозгом корабля «USS Almayer» (Олмейер), оно руководит и координирует действия боевых отрядов и вспомогательного персонала корабля в борьбе с Чужими.
 
 # military police
-department-MilitaryPolice = Military Police
-department-MilitaryPolice-description = Enforce Marine Law. Detain Criminals. Keep Shipside Personnel Safe.
+department-MilitaryPolice = Военная полиция
+department-MilitaryPolice-description = Обеспечьте соблюдение Закона морской пехоты. Задерживайте преступников. Обеспечивайте безопасность экипажа корабля.
 
 # requisitions
-department-Requisitions = Requisitions
-department-Requisitions-description = Dispense supplies to the marines.
+department-Requisitions = Логистика
+department-Requisitions-description = Распределяйте припасы между морпехами.
 
 # marines
-department-Marine = Marine [ALL]
-department-Marine-description = They form the main fighting body of the Almayer and are sent planetside to fight all kinds of dangers throughout the Neroid Sector.
+department-Marine = Морпехи [ВСЕ]
+department-Marine-description = Морпехи являются основной боевой силой "Олмейера" и часто высаживаются на планету для борьбы со всевозможными опасностями сектора Нероид.
 
 # engineering
-department-MarineEngineering = Engineering
-department-MarineEngineering-description = Your job is to maintain the ship's engine and keep everything running.
+department-MarineEngineering = Техобеспечение
+department-MarineEngineering-description = Вашей задачей является обслуживание силовой установки корабля и поддержание всех его систем в рабочем состоянии.
 
 # medical
-department-MarineMedical = Medical
-department-MarineMedical-description = Treat all patients that come into medbay. Transfer injured marines from the hanger to medbay.
+department-MarineMedical = Медобеспечение
+department-MarineMedical-description = Лечите всех пациентов, поступающих в медпункт. Переносите раненых морпехов из ангара в медпункт.
 
 # auxiliary support
-department-AuxiliarySupport = Auxiliary Support
-department-AuxiliarySupport-description = The Auxiliary support personnel are tasked with supporting the marines either by providing support through firepower or other means.
+department-AuxiliarySupport = Вспомогательный персонал
+department-AuxiliarySupport-description = Вспомогательному персоналу поручено оказывать содействие морским пехотинцам, обеспечивая огневую поддержку или иные средства.
 
 # non uscm
-department-Civilians = Civilian
-department-Civilians-description = Jobs not a part of US Colonial Marine forces.
+department-Civilians = Некомбатанты
+department-Civilians-description = Роли, не имеющие отношения к Корпусу колониальной морской пехоты соединённых государств.
