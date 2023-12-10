@@ -1,68 +1,71 @@
-﻿# Plasma
-cm-xeno-not-enough-plasma = You don't have enough plasma!
+# tail-sweep - взмах-нуть хвостом
+# headbutt - удар-ить головой
+
+# Plasma
+cm-xeno-not-enough-plasma = Вам не хватает плазмы!
 
 # Costruction
-cm-xeno-choose-resin-structure = Choose Resin Structure
-cm-xeno-order-construction = Build Structure
-cm-xeno-too-close-to-other-node = This is too close to {THE($target)}!
-cm-xeno-requires-more-plasma = {THE($construction)} requires {$plasma} more plasma.
-cm-xeno-construction-plasma-left = A {$construction} construction is designated here. It requires [color=cyan]{$plasma}[/color] more plasma.
-cm-xeno-cant-reach-there = You can't reach there!
+cm-xeno-choose-resin-structure = Выбрать смоляную конструкцию
+cm-xeno-order-construction = Построить конструкцию
+cm-xeno-too-close-to-other-node = Слишком близко к { $target }!
+cm-xeno-requires-more-plasma = { $construction } требует ещё { $plasma } плазмы. #todo разбивка по кол-ву
+cm-xeno-construction-plasma-left = Тут намечена постройка { $construction }. Необходимо ещё [color=cyan]{ $plasma }[/color] плазмы. #todo разбивка по кол-ву
+cm-xeno-cant-reach-there = Вы не можете достать до сюда!
 
 # Evolve
-cm-xeno-available-evolutions = Available Evolutions
-cm-xeno-evolution-start = You begin to twist and contort.
-cm-xeno-evolution-end = You emerge in a greater form from the husk of your old body. For the hive!
+cm-xeno-available-evolutions = Доступные эволюции
+cm-xeno-evolution-start = Вы начинаете извиваться и выгибаться.
+cm-xeno-evolution-end = Из остатков своего старого тела вы восстаете в новой усиленной форме. Ради улья!
 
 # Fortify
-cm-xeno-fortify-cant-headbutt = You can't headbutt while fortifying!
-cm-xeno-fortify-cant-rest = You can't rest while fortifying!
-cm-xeno-fortify-cant-tail-sweep = You can't tail sweep while fortifying!
-cm-xeno-fortify-cant-toggle-crest = You can't lower your crest while fortifying!
+cm-xeno-fortify-cant-headbutt = Вы не можете ударить головой пока занимаетесь укреплением!
+cm-xeno-fortify-cant-rest = Вы не можете отдыхать пока занимаетесь укреплением!
+cm-xeno-fortify-cant-tail-sweep = Вы не можете взмахнуть хвостом пока занимаетесь укреплением!
+cm-xeno-fortify-cant-toggle-crest = Вы не можете пригнуть гребень пока занимаетесь укреплением!
 
-# Leap
-cm-xeno-leap-cancelled = You cancel your leap!
+# Leap \ Скачок
+cm-xeno-leap-cancelled = Вы отменяете свой скачок!
 
-# Plant weeds
-cm-xeno-weeds-already-here = There are already weeds here!
+# Plant weeds \ Сорняки
+cm-xeno-weeds-already-here = Здесь уже растут сорняки!
 
-# Corrosive acid
-cm-xeno-acid-not-corrodable = You can't corrode {THE($target)}!
-cm-xeno-acid-already-corroding = {THE($target)} already has corrosive acid on it!
+# Corrosive acid \ Едкая кислота
+cm-xeno-acid-not-corrodable = Вы не можете растворить { $target }!
+cm-xeno-acid-already-corroding = { $target } уже покрыт к едкой кислотой!
 
-# Devour
-cm-xeno-cant-devour = You can't devour {THE($target)}!
+# Devour \ Поглощение-поглотить
+cm-xeno-cant-devour = Вы не можете поглотить { $target }!
 
-# Paralyzing Slash
-cm-xeno-paralyzing-slash-activate = Your next slash will apply neurotoxin!
-cm-xeno-paralyzing-slash-expire = You have waited too long, your slash will no longer apply neurotoxin!
-cm-xeno-paralyzing-slash-hit = You add neurotoxin into your attack, {$target} is about to fall over paralyzed!
+# Paralyzing Slash \ Парализующий удар
+cm-xeno-paralyzing-slash-activate = Ваш следующий удар введёт нейротоксин!
+cm-xeno-paralyzing-slash-expire = Вы ждали слишком долго, ваш удар больше не будет вводить нейротоксин!
+cm-xeno-paralyzing-slash-hit = Вы ввели нейротоксин при атаке, { $target } вот-вот упадёт парализованным!
 
-# Pheromones
-cm-xeno-choose-pheromones = Choose Pheromones
-cm-pheromones-recovery = Recovery
-cm-pheromones-warding = Warding
-cm-pheromones-frenzy = Frenzy
-cm-xeno-pheromones-start = You start emitting {$pheromones} pheromones
-cm-xeno-pheromones-stop = You stop emitting pheromones
+# Pheromones \ Феромоны
+cm-xeno-choose-pheromones = Выберите феромоны
+cm-pheromones-recovery = восстановления
+cm-pheromones-warding = защиты
+cm-pheromones-frenzy = безумия
+cm-xeno-pheromones-start = Вы начинаете источать феромоны { $pheromones }
+cm-xeno-pheromones-stop = Вы перестаёте источать феромоны
 
-# Regurgitate
-cm-xeno-none-devoured = You haven't devoured anyone!
+# Regurgitate \ Срыг-срыгнуть
+cm-xeno-none-devoured = Вы никого не поглощали!
 
-# Rest
-cm-xeno-rest-cant-headbutt = You can't headbutt while resting!
-cm-xeno-rest-cant-fortify = You can't fortify while resting!
-cm-xeno-rest-cant-tail-sweep = You can't tail sweep while resting!
-cm-xeno-rest-cant-toggle-crest = You can't lower your crest while resting!
+# Rest \ Отдых-отдыхать
+cm-xeno-rest-cant-headbutt = Вы не можете ударить головой пока отдыхаете!
+cm-xeno-rest-cant-fortify = Вы не можете укреплять пока отдыхаете!
+cm-xeno-rest-cant-tail-sweep = Вы не можете ударить головой пока отдыхаете!
+cm-xeno-rest-cant-toggle-crest = Вы не можете пригнуть гребень пока отдыхаете!
 
-# Toggle Crest Defense
-cm-xeno-toggle-crest-cant-fortify = You can't fortify while your crest is lowered!
-cm-xeno-toggle-crest-cant-rest = You can't rest while your crest is lowered!
-cm-xeno-toggle-crest-cant-tail-sweep = You can't tail sweep while your crest is lowered!
+# Toggle Crest Defense \ Пригнуть гребень
+cm-xeno-toggle-crest-cant-fortify = Вы не можете укреплять пока у вас пригнут гребень!
+cm-xeno-toggle-crest-cant-rest = Вы не можете отдыхать пока у вас пригнут гребень!
+cm-xeno-toggle-crest-cant-tail-sweep = Вы не можете взмахнуть хвостом пока у вас пригнут гребень!
 
 # Transfer Plasma
-cm-xeno-plasma-transferred-to-other = You have transferred {$plasma} plasma to {$target}. You now have {$total}
-cm-xeno-plasma-transferred-to-self = {$target} has transferred {$plasma} plasma to you. You now have {$total}
+cm-xeno-plasma-transferred-to-other = Вы передали { $plasma } плазмы { $target }. У вас осталось { $total } #todo разбивка по кол-ву
+cm-xeno-plasma-transferred-to-self = Вы получили { $plasma } плазмы от { $target }. Теперь у вас { $total } #todo разбивка по кол-ву
 
-# Watch
-cm-xeno-watch = Watch Xeno
+# Watch 
+cm-xeno-watch = Смотреть за ксено
