@@ -1,12 +1,12 @@
 ﻿# engineering
-job-name-cm-chief-engineer = Chief Engineer
-job-description-cm-chief-engineer = Coordinate engineering. Keep the power on.
-JobCMChiefEngineer = Chief Engineer
+job-name-cm-chief-engineer = Чиф-инженер
+job-description-cm-chief-engineer = Координируйте инженерные работы. Поддерживайте подачу электроэнергии.
+JobCMChiefEngineer = Чиф-инженер
 
-job-name-ordnance-tech = Ordnance Technician
-job-description-ordnance-tech = Make custom ordnance for the marines to use. Maintain the orbital cannon and the dropships.
-JobOrdnanceTech = Ordnance Technician
+job-name-ordnance-tech = Техник по вооружению
+job-description-ordnance-tech = Создавайте нестандартные боеприпасы для пехотинцев. Поддерживайте в рабочем состоянии орбитальные орудия и десантные корабли.
+JobOrdnanceTech = Техник по вооружению
 
-job-name-maint-tech = Maintenance Technician
-job-description-maint-tech = Keep the S-52 Fusion Reactors powered. Maintain and modify the Almayer and its dropships.
-JobMaintTech = Maintenance Technician
+job-name-maint-tech = Техник по обслуживанию
+job-description-maint-tech = Поддерживайте термоядерные реакторы S-52 в рабочем состоянии. Обслуживайте и модифицируйте "Ольмейер" и его десантные корабли.
+JobMaintTech = Техник по обслуживанию
