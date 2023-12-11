@@ -1,16 +1,16 @@
 ﻿# medical
-job-name-cm-cmo = Chief Medical Officer
-job-description-cm-cmo = Oversee Medbay, Research, and Chemistry. Manage your medical crew. Advise the Command staff on matters of health and wellness of the marine force.
-JobMarineCMO = Chief Medical Officer
+job-name-cm-cmo = Старший медицинский офицер
+job-description-cm-cmo = Контролируйте работу медотсека, исследовательского отдела и химической лаборатории. Управляйте медицинским персоналом. Консультируйте командный состав по вопросам здоровья и благополучия морпехов.
+JobMarineCMO = Старший медицинский офицер
 
-job-name-cm-doctor = Doctor
-job-description-cm-doctor = Treat all patients that come into medbay. Transfer injured marines from the hanger to medbay. Perform surgery if needed.
-JobMarineDoctor = Doctor
+job-name-cm-doctor = Доктор
+job-description-cm-doctor = Лечите всех пациентов, поступающих в медотсек. Переносите раненых морпехов из ангара в медотсек. Проводите операции при необходимости.
+JobMarineDoctor = Доктор
 
-job-name-nurse = Nurse
-job-description-nurse = Aid the doctors and medics in providing aid to the wounded.
-JobNurse = Nurse
+job-name-nurse = Санитар
+job-description-nurse = Помогайте докторам и медикам в оказании помощи раненым.
+JobNurse = Санитар
 
-job-name-researcher = Researcher
-job-description-researcher = Conduct research on what is sent to you. Create and analyze new chemicals, tools and objects.
-JobResearcher = Researcher
+job-name-researcher = Исследователь
+job-description-researcher = Проводите исследования того, что вам присылают. Создавать и анализировать новые химические вещества, инструменты и объекты.
+JobResearcher = Исследователь
