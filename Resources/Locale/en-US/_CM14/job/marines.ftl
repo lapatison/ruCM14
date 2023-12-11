@@ -1,28 +1,28 @@
 # marines
-job-name-rifleman = Rifleman
-job-description-rifleman = Follow orders from those above you. Do your job and shoot when you're needed to shoot. Don't die in the process.
-JobRifleman = Rifleman
+job-name-rifleman = Стрелок
+job-description-rifleman =Выполняйте приказы тех, кто стоит над вами. Делайте свою работу и стреляйте при необходимости. Не умирайте в процессе.
+JobRifleman = Стрелок
 
-job-name-squad-leader = Squad Leader
-job-description-squad-leader = Leader of one of the four marine squads. Give your squad and fireteams objectives and follow orders from Command. Keep your squad in one piece.
-JobSquaderLeader = Squad Leader
+job-name-squad-leader = Лидер отряда
+job-description-squad-leader = Командуйте одним из четырех отрядов морпехов. Ставьте задачи своему отряду и огневым группам и выполняйте приказы командования. Поддерживайте отряд в целости и сохранности.
+JobSquaderLeader = Лидер отряда
 
-job-name-fireteam-leader = Fireteam Leader
-job-description-fireteam-leader = Follow the squad leader's orders and command your fireteam. Co-ordinate with CAS and fire support elements.
-JobFireteamLeader = Fireteam Leader
+job-name-fireteam-leader = Лидер огневой группы
+job-description-fireteam-leader = Выполняйте приказы командира отряда и руководите своей огневой группой. Координируйте свои действия с подразделениями огневой поддержки и поддержки с воздуха.
+JobFireteamLeader = Лидер огневой группы
 
-job-name-weapons-specialist = Weapons Specialist
-job-description-weapons-specialist = Gain access to heavier, more powerful weaponry and equipment. Combat professional, lead the squad if needed.
-JobWeaponsSpecialist = Weapons Specialist
+job-name-weapons-specialist = Оружейный специалист
+job-description-weapons-specialist = Имейте доступ к более тяжёлому мощному вооружению и снаряжению. Как профессионал, возглавьте отряд при необходимости.
+JobWeaponsSpecialist = Оружейный специалист
 
-job-name-smartgunner = Smartgunner
-job-description-smartgunner = Support your Squad with heavy weaponry and give the enemy suppressing fire.
-JobSmartgunner = Smart Gunner
+job-name-smartgunner = Смартганнер
+job-description-smartgunner = Поддерживайте свой отряд тяжёлым вооружением, подавляйте противника огнём.
+JobSmartgunner = Смартганнер
 
-job-name-hospital-corpsman = Hospital Corpsman
-job-description-hospital-corpsman = Keep Marines in fighting condition, or as close as you can get them. Medevac those who need to be sent back to Medbay for treatment.
-JobHospitalCorpsman = Hospital Corpsman
+job-name-hospital-corpsman = Полевой врач
+job-description-hospital-corpsman = Поддерживайте морпехов в пригодном для боя состоянии или как можно ближе к нему. Осуществляйте медицинскую эвакуацию тех, кого необходимо отправить обратно в медпункт для оказания медицинской помощи.
+JobHospitalCorpsman = Полевой врач
 
-job-name-combat-tech = Combat Technician
-job-description-combat-tech = Build or remove fortifications. Establish and maintain FOB and Power. Gain access to blocked off areas.
-JobCombatTech = Combat Tech
+job-name-combat-tech = Боевой техник
+job-description-combat-tech = Возводите или сносите укрепления. Создавайте и поддерживайте передовые базы и энергоустановки. Получайте доступ к заблокированным зонам.
+JobCombatTech = Боевой техник
