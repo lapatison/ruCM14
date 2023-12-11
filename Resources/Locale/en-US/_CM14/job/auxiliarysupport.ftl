@@ -1,16 +1,16 @@
 ﻿# auxiliary support
-job-name-aso = Auxiliary Support Officer
-job-description-aso = Coordinate the support and auxiliary departments of the operation.
-JobAuxiliarySupportOfficer = Auxiliary Support Officer
+job-name-aso = Офицер вспомогательной службы
+job-description-aso = Координируйте работу вспомогательных и поддерживающих подразделений.
+JobAuxiliarySupportOfficer = Офицер вспомогательной службы
 
-job-name-pilot = Pilot Officer
-job-description-pilot = Transport troops via the dropship or provide close air support and medevac. Make sure no invaders get onto your assigned Dropship.
-JobPilotOfficer = Pilot Officer
+job-name-pilot = Пилот-офицер
+job-description-pilot = Перевозите войска на десантном корабле или оказывайте поддержку с воздуха и осуществляйте медицинскую эвакуацию. Следите за тем, чтобы захватчики не попали на ввереное вам судно.
+JobPilotOfficer = Пилот-офицер
 
-job-name-dcc = Dropship Crew Chief
-job-description-dcc = Assist the pilot officer and maintain the ship's dropship as well as the dropship's wounded.
-JobDropshipCrewChief = Dropship Crew Chief
+job-name-dcc = Шеф экипажа десантного корабля
+job-description-dcc = Помогайте пилот-офицеру и занимайтесь обслуживанием десантного корабля и уходом за ранеными на корабле.
+JobDropshipCrewChief = Шеф экипажа десантного корабля
 
-job-name-intel = Intelligence Officer
-job-description-intel = Recover intelligence objects from groundside, process, and gain tech points to support the operation by OB warhead, dropship points or requisition supply.
-JobIntelOfficer = Intelligence Officer
+job-name-intel = Офицер разведки
+job-description-intel = Собирайте разведданные с поверхности, обрабатывайте их и получайте очки технологий, чтобы поддержать ход операции при помощи боеголовок ОБ (орбитальной бомбардировки), очков десантных кораблей или логистических запасов.
+JobIntelOfficer = Офицер разведки
