@@ -1,7 +1,7 @@
 ﻿# engineering
-job-name-cm-chief-engineer = Шеф-инженер
+job-name-cm-chief-engineer = Старший инженер
 job-description-cm-chief-engineer = Координируйте инженерные работы. Поддерживайте подачу электроэнергии.
-JobCMChiefEngineer = Шеф-инженер
+JobCMChiefEngineer = Старший инженер
 
 job-name-ordnance-tech = Техник по вооружению
 job-description-ordnance-tech = Создавайте нестандартные боеприпасы для пехотинцев. Поддерживайте в рабочем состоянии орбитальные орудия и десантные корабли.
