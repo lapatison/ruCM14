@@ -1,6 +1,5 @@
-ent-CMBaseWall = { ent-['BaseStructure', 'CMEntityBase'] }
-
-  .desc = A huge chunk of metal used to separate rooms.
+ent-CMBaseWall = { ent-BaseStructure }
+    .desc = A huge chunk of metal used to separate rooms.
 ent-CMWallMetal = wall
     .desc = A huge chunk of metal used to separate rooms.
 ent-CMWallMetalAlmayer = wall

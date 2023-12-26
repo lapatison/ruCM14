@@ -1,6 +1,5 @@
 ent-BaseWallXeno = resin wall
-
-  .desc = { ent-['BaseWall', 'CMEntityBase'].desc }
+    .desc = { ent-BaseWall.desc }
 ent-WallXenoResin = resin wall
     .desc = Weird slime solidified into a wall.
 ent-WallXenoResinThick = thick resin wall

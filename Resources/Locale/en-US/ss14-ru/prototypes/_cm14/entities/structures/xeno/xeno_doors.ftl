@@ -1,5 +1,4 @@
 ent-DoorXenoResin = resin door
-
-  .desc = { ent-['BaseStructure', 'CMEntityBase'].desc }
+    .desc = { ent-BaseStructure.desc }
 ent-DoorXenoResinThick = thick resin door
     .desc = { ent-DoorXenoResin.desc }

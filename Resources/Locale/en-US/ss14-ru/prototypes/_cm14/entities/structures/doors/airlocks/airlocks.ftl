@@ -1,6 +1,5 @@
 ent-CMAirlock = airlock
-
-  .desc = { ent-['Airlock', 'CMEntityBase'].desc }
+    .desc = { ent-Airlock.desc }
 ent-CMAirlockCommand = { ent-CMAirlock }
     .suffix = Command
     .desc = { ent-CMAirlock.desc }

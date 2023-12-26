@@ -1,6 +1,5 @@
-ent-CMBeltBase = { ent-['ClothingBeltBase', 'CMEntityBase'] }
-
-  .desc = { ent-['ClothingBeltBase', 'CMEntityBase'].desc }
+ent-CMBeltBase = { ent-ClothingBeltBase }
+    .desc = { ent-ClothingBeltBase.desc }
 ent-CMBeltBaseStorage = { ent-CMBeltBase }
     .desc = { ent-CMBeltBase.desc }
 ent-CMBeltInflatable = Mr. Quackers

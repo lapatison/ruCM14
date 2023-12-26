@@ -1,6 +1,5 @@
-ent-CMPosterBase = { ent-['BaseSign', 'CMEntityBase'] }
-
-  .desc = { ent-['BaseSign', 'CMEntityBase'].desc }
+ent-CMPosterBase = { ent-BaseSign }
+    .desc = { ent-BaseSign.desc }
 ent-CMPosterBroken = broken poster
     .desc = You can't make out anything from the poster's original print. It's ruined.
 ent-CMPosterTheFuture = The Future

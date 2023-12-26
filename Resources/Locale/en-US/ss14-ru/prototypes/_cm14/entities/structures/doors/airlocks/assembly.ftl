@@ -1,3 +1,2 @@
-ent-CMAirlockAssembly = { ent-['AirlockAssembly', 'CMEntityBase'] }
-
-  .desc = { ent-['AirlockAssembly', 'CMEntityBase'].desc }
+ent-CMAirlockAssembly = { ent-AirlockAssembly }
+    .desc = { ent-AirlockAssembly.desc }

@@ -1,6 +1,5 @@
-ent-CMBaseWindow = { ent-['BaseStructure', 'CMEntityBase'] }
-
-  .desc = { ent-['BaseStructure', 'CMEntityBase'].desc }
+ent-CMBaseWindow = { ent-BaseStructure }
+    .desc = { ent-BaseStructure.desc }
 ent-CMWindowReinforcedAlmayerHull = hull window
     .desc = A glass window with a special rod matrix inside a wall frame. This one was made out of exotic materials to prevent hull breaches. No way to get through here.
 ent-CMWindowReinforcedAlmayer = reinforced window
