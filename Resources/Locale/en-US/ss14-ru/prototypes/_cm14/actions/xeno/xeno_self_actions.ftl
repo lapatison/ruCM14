@@ -1,0 +1,16 @@
+ent-ActionXenoRest = Rest
+    .desc = { ent-ActionXenoBase.desc }
+ent-ActionXenoWatch = Watch
+    .desc = { ent-ActionXenoBase.desc }
+ent-ActionXenoPheromones = Emit Pheromones
+    .desc = { ent-ActionXenoBase.desc }
+ent-ActionXenoHide = Hide
+    .desc = { ent-ActionXenoBase.desc }
+ent-ActionXenoToggleCrest = Toggle Crest Defense
+    .desc = { ent-ActionXenoBase.desc }
+ent-ActionXenoFortify = Fortify
+    .desc = { ent-ActionXenoBase.desc }
+ent-ActionXenoResinWalker = Resin Walker
+    .desc = { ent-ActionXenoBase.desc }
+ent-ActionXenoZoom = Toggle Long-Range Sight
+    .desc = { ent-ActionXenoBase.desc }

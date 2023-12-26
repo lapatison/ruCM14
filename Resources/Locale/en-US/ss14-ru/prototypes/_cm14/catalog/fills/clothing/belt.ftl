@@ -1,0 +1,15 @@
+ent-CMBeltUtilityFilled = { ent-CMBeltUtility }
+    .suffix = Filled
+    .desc = { ent-CMBeltUtility.desc }
+ent-CMBeltUtilityCombatFilled = { ent-CMBeltUtilityCombat }
+    .suffix = Filled
+    .desc = { ent-CMBeltUtilityCombat.desc }
+ent-CMBeltSecurityFilled = { ent-CMBeltSecurity }
+    .suffix = Filled
+    .desc = { ent-CMBeltSecurity.desc }
+ent-CMBeltMedicalFilled = { ent-CMBeltMedical }
+    .suffix = Filled
+    .desc = { ent-CMBeltMedical.desc }
+ent-CMBeltMedicBagFilled = { ent-CMBeltMedicBag }
+    .suffix = Filled
+    .desc = { ent-CMBeltMedicBag.desc }
