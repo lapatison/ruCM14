@@ -1,1 +1,1 @@
-cm-light-failed = You try to remove the light tube, but it's too hot and you don't want to burn your hand.
+cm-light-failed = Вы пытаетесь достать лампочку, но она слишком горячая, а вы не хотите обжечь руку.
