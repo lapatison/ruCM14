@@ -1,7 +1,7 @@
-﻿role-timer-human-roles = any human roles
-role-timer-medical-roles = any medical roles
-role-timer-engineering-roles = any engineering roles
-role-timer-dropship-roles = any dropship roles
+﻿role-timer-human-roles = любые человеческие должности
+role-timer-medical-roles = любые медицинские должности
+role-timer-engineering-roles = любые инженерные должности
+role-timer-dropship-roles = любые должности десантных кораблей
 
-role-timer-total-department-insufficient = You require [color=yellow]{TOSTRING($time, "0")}[/color] more minutes as [color={$rolesColor}]{$roles}[/color] to play this role.
-role-timer-total-department-too-high = You require [color=yellow]{TOSTRING($time, "0")}[/color] fewer minutes as [color={$departmentColor}]{$rolesColor}[/color] to play this role. (Are you trying to play a trainee role?)
+role-timer-total-department-insufficient = Вам требуется ещё [color=yellow]{TOSTRING($time, "0")}[/color] минут для игры на должности [color={$rolesColor}]{$roles}[/color].
+role-timer-total-department-too-high = Вы наиграли на [color=yellow]{TOSTRING($time, "0")}[/color] минут больше, чем можно на должности [color={$departmentColor}]{$rolesColor}[/color]. (Вы пытаетесь играть на должности для новичков?)
