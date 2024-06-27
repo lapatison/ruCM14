@@ -1,20 +1,20 @@
 ﻿# auxiliary support
-cm-job-name-aso = Auxiliary Support Officer
-cm-job-description-aso = Coordinate the support and auxiliary departments of the operation.
-CMJobAuxiliarySupportOfficer = Auxiliary Support Officer
+cm-job-name-aso = Глава вспомогательной службы
+cm-job-description-aso = Координируйте работу вспомогательных и поддерживающих подразделений.
+CMJobAuxiliarySupportOfficer = Глава вспомогательной службы
 
-cm-job-name-dropship-pilot = Dropship Pilot
-cm-job-description-dropship-pilot = Transport troops via the dropship and provide medevac. Make sure no invaders get onto your assigned Dropship.
-CMJobPilotDropship = Dropship Pilot
+cm-job-name-dropship-pilot = Пилот десантного корабля
+cm-job-description-dropship-pilot = Перевозите войска на десантном корабле или оказывайте поддержку с воздуха и осуществляйте медицинскую эвакуацию. Следите за тем, чтобы захватчики не попали на ввереное вам судно.
+CMJobPilotDropship = Пилот десантного корабля
 
-cm-job-name-gunship-pilot = Gunship Pilot
-cm-job-description-gunship-pilot = Fly, protect, and maintain the ship's transport dropship.
-CMJobPilotGunship = Gunship Officer
+cm-job-name-gunship-pilot = Пилот штурмового корабля
+cm-job-description-gunship-pilot = Летайте, прикрывайте, и обслуживайте десантные корабли.
+CMJobPilotGunship = Пилот штурмового корабля
 
-cm-job-name-dcc = Dropship Crew Chief
-cm-job-description-dcc = Assist the dropship and gunship pilots and maintain the ship's dropship as well as the dropship's wounded.
-CMJobDropshipCrewChief = Dropship Crew Chief
+cm-job-name-dcc = Старший бригады обслуживания #Грёбаный крю-чиф
+cm-job-description-dcc = Помогайте пилотам и занимайтесь обслуживанием десантного корабля и уходом за ранеными на корабле.
+CMJobDropshipCrewChief = Старший бригады обслуживания
 
-cm-job-name-intel = Intelligence Officer
-cm-job-description-intel = Recover intelligence objects from groundside, process, and gain tech points to support the operation by OB warhead, dropship points or requisition supply.
-CMJobIntelOfficer = Intelligence Officer
+cm-job-name-intel = Офицер разведки
+cm-job-description-intel = Собирайте разведданные с поверхности, обрабатывайте их и получайте очки технологий, чтобы поддержать ход операции при помощи боеголовок ОБ (орбитальной бомбардировки), очков десантных кораблей или логистических запасов.
+CMJobIntelOfficer = Офицер разведки
