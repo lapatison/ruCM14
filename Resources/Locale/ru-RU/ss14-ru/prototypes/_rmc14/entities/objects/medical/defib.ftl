@@ -1,9 +1,8 @@
 ent-CMBaseDefibrillator = emergency defibrillator
     .desc = A handheld emergency defibrillator, used to restore fibrillating patients. Can optionally bring people back from the dead.
-ent-CMDefibrillator = { ent-['CMBaseDefibrillator', 'PowerCellSlotMediumItem'] }
-
+ent-CMDefibrillator = { ent-CMBaseDefibrillator }
   .suffix = RMC14
-  .desc = { ent-['CMBaseDefibrillator', 'PowerCellSlotMediumItem'].desc }
+  .desc = { ent-CMBaseDefibrillator.desc }
 ent-CMDefibrillatorEmpty = { ent-CMDefibrillator }
     .suffix = RMC14, Empty
     .desc = { ent-CMDefibrillator.desc }
