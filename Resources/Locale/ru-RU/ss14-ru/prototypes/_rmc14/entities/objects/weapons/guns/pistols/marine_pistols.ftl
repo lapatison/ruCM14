@@ -1,6 +1,5 @@
-ent-CMWeaponPistolBase = { ent-['BaseItem', 'CMBaseWeaponGun'] }
-
-  .desc = { ent-['BaseItem', 'CMBaseWeaponGun'].desc }
+ent-CMWeaponPistolBase = { ent-CMBaseWeaponGun }
+  .desc = { ent-CMBaseWeaponGun.desc }
 ent-CMWeaponPistolM1984 = M1984 service pistol
     .desc = An M1984 Service Pistol, once the standard issue sidearm of the Marines but has recently been replaced with the M77 combat pistol. Fires 9mm pistol rounds.
 ent-CMWeaponPistolM77 = M77 combat pistol

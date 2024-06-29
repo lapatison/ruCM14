@@ -1,6 +1,5 @@
-ent-CMBaseWeaponRifle = { ent-['BaseItem', 'CMBaseWeaponGun', 'CMBaseAttachableHolder'] }
-
-  .desc = { ent-['BaseItem', 'CMBaseWeaponGun', 'CMBaseAttachableHolder'].desc }
+ent-CMBaseWeaponRifle = { ent-CMBaseWeaponGun }
+  .desc = { ent-CMBaseWeaponGun.desc }
 ent-WeaponRifleM54C = M54C assault rifle MK2
     .desc = The standard issue rifle of the Marines. Commonly carried by most combat personnel. Uses 10x24mm caseless ammunition.
 ent-WeaponRifleM54CE2 = M54CE2 heavy assault rifle
