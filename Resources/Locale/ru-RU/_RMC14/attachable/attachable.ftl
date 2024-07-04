@@ -1,7 +1,7 @@
-cm-attachable-holder-strip-ui-title = strip attachables
-cm-attachable-holder-strip-ui-empty-slot = nothing
-cm-verb-strip-attachables = Strip Attachables
-cm-aslot-barrel = Barrel
-cm-aslot-rail = Rail
-cm-aslot-stock = Stock
-cm-aslot-underbarrel = Underbarrel
+cm-attachable-holder-strip-ui-title = Снять приспособления
+cm-attachable-holder-strip-ui-empty-slot = ничего
+cm-verb-strip-attachables = Снять приспособления
+cm-aslot-barrel = Ствол
+cm-aslot-rail = Крепление
+cm-aslot-stock = Ложе
+cm-aslot-underbarrel = Подствольник
