@@ -1,10 +1,10 @@
 # requisitions
-cm-job-name-quartermaster = Quartermaster
-cm-job-description-quartermaster = Your job is to dispense supplies to the marines, including weapon attachments.
-CMJobQuartermaster = Quartermaster
-cm-job-name-cargotech = Cargo Technician
-cm-job-description-cargotech = Your job is to dispense supplies to the marines, including weapon attachments.
-CMJobCargoTech = Cargo Technician
-cm-job-name-messtech = Mess Technician
-cm-job-description-messtech = Your job is to service the marines with excellent food, drinks and entertaining the shipside crew when needed.
-CMJobMessTech = Mess Technician
+cm-job-name-quartermaster = Квартермейстер
+cm-job-description-quartermaster = Ваша работа заключается в выдаче припасов морским пехотинцам, в том числе и оружейных приспособлений.
+CMJobQuartermaster = Квартермейстер
+cm-job-name-cargotech = Техник реквизиции
+cm-job-description-cargotech = Ваша работа заключается в выдаче припасов морским пехотинцам, в том числе и оружейных приспособлений.
+CMJobCargoTech = Техник реквизиции
+cm-job-name-messtech = Техник сервиса
+cm-job-description-messtech = Ваша работа заключается в приготовлении великолепных блюд и напитков для морских пехотинцев, а также в развлечении членов экипажа, если потребуется.
+CMJobMessTech = Техник сервиса
