@@ -257,7 +257,7 @@ rmc-xeno-sacrifice-heal-target-dead-failure = {$target_xeno} is dead!
 rmc-xeno-sacrifice-heal-target-full-health-failure = {$target_xeno} is already at full health!
 
 rmc-xeno-sacrifice-heal-target-announcement = {$healer_xeno} sacrifices itself to heal {$target_xeno}!
-rmc-xeno-sacrifice-heal-target-enviorment = {$healer_xeno} explodes in a deluge of regenerative resin salve, covering {$target_xeno} in it!
+rmc-xeno-sacrifice-heal-target-enviroment = {$healer_xeno} explodes in a deluge of regenerative resin salve, covering {$target_xeno} in it!
 
 # Dodge
 rmc-xeno-dodge-self = We can now weave through our enemies!
