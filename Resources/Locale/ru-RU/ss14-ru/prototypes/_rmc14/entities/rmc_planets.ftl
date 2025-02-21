@@ -1,0 +1,16 @@
+ent-RMCPlanetLV624 = LV-624
+    .desc = { "" }
+ent-RMCPlanetSolaris = Соларис Ридж
+    .desc = { "" }
+ent-RMCPlanetShiva = Шивас Сноуболл
+    .desc = { "" }
+ent-RMCPlanetFiorina = Научный комплекс Фиорина
+    .desc = { "" }
+ent-RMCPlanetTrijent = Дамба Триджент
+    .desc = { "" }
+ent-RMCPlanetVaradero = Нью-Варадеро
+    .desc = { "" }
+ent-RMCPlanetKutjevo = Перерабатывающий комплекс Кутьево
+    .desc = { "" }
+ent-RMCPlanetChances = LV-522 Chance's Claim \\ Претензия Шанса
+    .desc = { "" }

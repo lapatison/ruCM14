@@ -1,0 +1,14 @@
+ent-XenoFruitBase = смоляной фрукт
+    .desc = Фрукт, который не должен существовать
+ent-XenoFruitLesser = малый смоляной фрукт
+    .desc = Фрукт, который можно съесть, чтобы немедленно восстановить здоровье.
+ent-XenoFruitGreater = большой смоляной фрукт
+    .desc = Фрукт, который можно съесть, чтобы немедленно восстановить здоровье. и получить сильный эффект регенерации на несколько секунд.
+ent-XenoFruitUnstable = unstable смоляной фрукт
+    .desc = A fruit that can be eaten to gain a strong overshield effect, and a small regeneration for several seconds.
+ent-XenoFruitSpore = spore смоляной фрукт
+    .desc = A fruit that can be eaten to reenergize cooldowns. It also passively emits weak recovery pheromones.
+ent-XenoFruitSpeed = alacrit смоляной фрукт
+    .desc = A fruit that can be eaten to move faster for a short amount of time.
+ent-XenoFruitPlasma = cruor смоляной фрукт
+    .desc = A fruit that can be eaten to boost plasma generation.
