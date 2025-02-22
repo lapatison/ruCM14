@@ -1,8 +1,8 @@
 ent-CMDoubleDoorRequisitionsGlassLocked = { ent-CMDoubleDoorAlmayerGlass }
-    .suffix = Requisitions, Стеклянный, Закрыто
+    .suffix = Снабжение, Стеклянный, Закрыто
     .desc = { ent-CMDoubleDoorAlmayerGlass.desc }
 ent-CMDoubleDoorRequisitionsSolidLocked = { ent-CMDoubleDoorAlmayerSolid }
-    .suffix = Requisitions, Сплошной, Закрыто
+    .suffix = Снабжение, Сплошной, Закрыто
     .desc = { ent-CMDoubleDoorAlmayerSolid.desc }
 ent-CMDoubleDoorEngineerGlassLocked = { ent-CMDoubleDoorEngineerGlass }
     .suffix = Инженерный, Стеклянный, Закрыто
