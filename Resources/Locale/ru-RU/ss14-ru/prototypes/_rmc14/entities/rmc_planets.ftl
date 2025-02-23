@@ -12,5 +12,5 @@ ent-RMCPlanetVaradero = Нью-Варадеро
     .desc = { "" }
 ent-RMCPlanetKutjevo = Перерабатывающий комплекс Кутьево
     .desc = { "" }
-ent-RMCPlanetChances = LV-522 Chance's Claim \\ Претензия Шанса
+ent-RMCPlanetChances = LV-522 Претензия Шанса
     .desc = { "" }
