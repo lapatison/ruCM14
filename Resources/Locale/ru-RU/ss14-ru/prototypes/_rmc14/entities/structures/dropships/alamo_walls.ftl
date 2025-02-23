@@ -1,4 +1,4 @@
-ent-CMBaseAlamoWall = стена Аламо
+ent-CMBaseAlamoWall = стенка Аламо
     .desc = { ent-CMBaseWallInvincible.desc }
 ent-CMAlamoWall1 = { ent-CMBaseAlamoWall }
     .suffix = 1
