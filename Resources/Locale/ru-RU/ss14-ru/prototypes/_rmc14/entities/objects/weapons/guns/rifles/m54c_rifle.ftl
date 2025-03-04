@@ -1,0 +1,17 @@
+ent-WeaponRifleM54C = штурмовая винтовка M54C MK2
+    .desc = Стандартный автомат колониальных морских пехотинцев. Распространена среди большинства военнослужащих. Использует безгильзовые патроны калибра 10х24 мм.
+ent-CMMagazineRifleM54C = магазин M54C (10x24мм)
+    .desc = { ent-CMMagazineRifleBase.desc }
+ent-CMMagazineRifleM54CAP = магазин ББ M54C (10x24мм)
+    .suffix = ББ
+    .desc = { ent-CMMagazineRifleM54C.desc }
+ent-CMMagazineRifleM54CExt = увеличенный магазин M54C (10x24мм)
+    .desc = { ent-CMMagazineRifleM54C.desc }
+ent-CMCartridgeRifle10x24мм = патрон (10x24мм)
+    .desc = Патрон 10х24мм. Подходит для магазинов 10х24мм.
+ent-CMCartridgeRifle10x24ммAP = патрон ББ (10x24мм)
+    .desc = Бронебойный патрон 10х24мм. Подходит для бронебойных магазинов 10x24мм.
+ent-BulletRifle10x24мм = { ent-RMCBaseBullet }
+    .desc = { ent-RMCBaseBullet.desc }
+ent-BulletRifle10x24ммAP = { ent-BulletRifle10x24мм }
+    .desc = { ent-BulletRifle10x24мм.desc }

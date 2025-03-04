@@ -1,0 +1,14 @@
+ent-CMShellShotgunBuckshot = горсть дробовых патронов
+    .desc = { ent-CMShellShotgunBase.desc }
+ent-RMCShellShotgunBreaching = горсть пробивных патронов
+    .desc = { ent-CMShellShotgunBase.desc }
+ent-CMShellShotgunSlugs = горсть ружейных пуль
+    .desc = { ent-CMShellShotgunBase.desc }
+ent-CMShellShotgunIncendiary = горсть зажигательных пуль
+    .desc = { ent-CMShellShotgunBase.desc }
+ent-CMShellShotgunBeanbag = горсть травматических пуль
+    .desc = { ent-CMShellShotgunBase.desc }
+ent-CMShellShotgunFlechette = горсть патронов-флешетт
+    .desc = { ent-CMShellShotgunBase.desc }
+ent-CMShellShotgunIncendiaryBuckshot = горсть зажигательной дроби
+    .desc = { ent-CMShellShotgunBuckshot.desc }

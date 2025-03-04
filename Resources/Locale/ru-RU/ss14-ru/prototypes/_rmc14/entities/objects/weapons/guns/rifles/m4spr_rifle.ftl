@@ -1,0 +1,12 @@
+ent-WeaponRifleM4SPR = боевая винтовка M4SPR
+    .desc = Боевая винтовка M4SPR - это пехотная снайперская винтовка, состоящая на вооружении колониальной морской пехоты. Боевая винтовка M4SPR выполнена по компоновке «буллпап» и идеально подходит для групп разведки и огневой поддержки.
+ent-WeaponRifleM4SPRFilled = { ent-WeaponRifleM4SPR }
+    .suffix = Заполненный
+    .desc = { ent-WeaponRifleM4SPR.desc }
+ent-CMMagazineRifleM4SPR = магазин M4SPR (10x24мм)
+    .desc = Магазин стандартных патронов калибра 10x24 мм для боевой винтовки M4SPR.
+ent-CMMagazineRifleM4SPRAP = магазин ББ M4SPR (10x24мм)
+    .desc = Магазин бронебойных патронов калибра 10х24мм для боевой винтовки M4SPR.
+    .suffix = ББ
+ent-CMMagazineRifleM4SPRExt = увеличенный магазин M4SPR (10x24мм)
+    .desc = { ent-CMMagazineRifleM4SPR.desc }
